@@ -33,8 +33,10 @@ class block_attackoverview extends block_base {
         }
 
         $this->content = new stdClass;
-        $this->content->text = "This is content";
-        $this->content->footer = "This is Footer";
+        $this->content->text = "Organization Security Threat Score";
+        $this->content->text = "Graphs here";
+        $this->content->text = "Threat Score: clicked_links/Sent_links * 100";
+        $this->content->footer = "";
 
 
 
