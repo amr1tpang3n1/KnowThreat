@@ -10,3 +10,6 @@ InitHive Know Threat helps you to improve your operational technology (OT) with 
 4. Insider Threats Detection and Prevention
 5. Learning Badges 
 6. Training Workshops
+
+# Additional Plugins
+This site will come with attack overview, attack interface and Risk Prediction calculator which are the unique features of this site rather than other education websites. The attack overview block will consist of the graphs with predictions of risk score of the organisation. The attack interface will provide a user friendly interface to admins to execute the ethical attacks on the staffs of organisation. 
